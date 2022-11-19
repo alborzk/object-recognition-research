@@ -1,5 +1,3 @@
-<h1 align="center">How Do Intelligent Systems Recognize and Track Objects Using Neural Networks?</h1>
-
 ## Abstract
 Computer vision has been a difficult subject of research for many years, but
 over the past decade, it is steadily becoming more and more powerful as new
