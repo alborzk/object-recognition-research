@@ -243,7 +243,10 @@ to object detection or segmentation, more powerful computers, and greater collec
 of training data for DCNNs, we can start to see bits and pieces of what the potential for
 advanced computer vision looks like.
 
+---
+
 ## Bibliography
+
 - Diamant E. (2005) Does a Plane Imitate a Bird? Does Computer Vision Have to Follow
 Biological Paradigms?. In: De Gregorio M., Di Maio V., Frucci M., Musio C. (eds) Brain, Vision,
 and Artificial Intelligence. BVAI 2005. Lecture Notes in Computer Science, vol 3704.
