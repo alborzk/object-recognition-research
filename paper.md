@@ -284,4 +284,6 @@ Networks.” (2016)
 segmentation.”
 - Joseph, R. et al. (2015) You Only Look Once: Unified, Real-Time Object Detection,
 
+---
+
 _Researched, written, and edited by Alborz Khakbazan (2021)_
