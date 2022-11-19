@@ -30,7 +30,6 @@ frame. We can go even further than that using object segmentation, which locates
 classifies objects by the pixel, aiming for complete accuracy in vision.
 
 ![](img/vision.png)  
-*Figure 1*
 
 In an ideal world, computer vision is just that – completely accurate, high-speed
 vision that surpasses that of our own. However, we are still far and away from
@@ -101,7 +100,6 @@ representation, which use 2 different filter matrixes to detect horizontal edges
 vertical edges before combining the two. [Jain et al. 1995]
 
 ![](img/feature.png)  
-*Figure 2*
 
 Feature maps are built from a wide array of different patterns in order to cover
 both intrinsic class variation and the effect of imaging conditions. With potentially
@@ -159,7 +157,6 @@ confirm that the region contains an object. The image is then classified, and fi
 bounding box is placed over the object. [Girshick et al 2014]
 
 ![](img/rcnn.png)  
-*Figure 3*
 
 At its time, R-CNN was groundbreaking – but since R-CNN is a multistage
 framework with functions in different stages, it was slow and costly in storage, leading
@@ -188,7 +185,6 @@ its confidence that it contains an object, along with the confidence levels for 
 possible object class for that cell.
 
 ![](img/yolo.png)  
-*Figure 4*
 
 Although this method was initially less accurate than the R-CNN approach when
 it was proposed in 2015, it has since been improved with v2 in 2016 and v3 in 2018
