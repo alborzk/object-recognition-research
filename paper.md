@@ -283,3 +283,5 @@ Networks.” (2016)
 - Girshick, R. et al. (2014) “Rich feature hierarchies for accurate object detection and semantic
 segmentation.”
 - Joseph, R. et al. (2015) You Only Look Once: Unified, Real-Time Object Detection,
+
+_Researched, written, and edited by Alborz Khakbazan (2021)_
