@@ -17,7 +17,7 @@ artificial intelligence and neural networking is crucial for object detection, h
 utilized, and what the future for it looks like in our ever-changing world.</p>
 
 ## 📖 Where to Read
-You can read or download the paper [here](https://drive.google.com/file/d/1IvOiPM2kWaKn5M2CvKjLmir2ZMWfpyBU/view?usp=sharing) (.pdf)
+You can read or download the paper as a [PDF](https://drive.google.com/file/d/1IvOiPM2kWaKn5M2CvKjLmir2ZMWfpyBU/view?usp=sharing), or view it on [GitHub Pages](https://alborzk.github.io/object-recognition-research/paper).
 
 ## 📝 Authors
 - [Alborz Khakbazan](https://www.linkedin.com/in/alborzk/)
